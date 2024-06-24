@@ -1,4 +1,4 @@
-: :root {
+ :root {
     --cor-de-fundo : #EBECEE ;
 }
 
@@ -26,3 +26,16 @@ h1{
 .cabeçalho {
     background-color: var(--branco);
 }
+.cabeçalho {
+background-color: var(--branco);
+display: flex;
+justify-content: space-between;
+}
+.cabeçalho {
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
